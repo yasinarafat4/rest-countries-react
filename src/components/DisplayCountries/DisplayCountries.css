@@ -1,0 +1,7 @@
+.country {
+  border: 4px solid rgba(8, 8, 105, 0.92);
+  padding: 10px;
+  margin: 10px;
+  border-radius: 20px;
+  background-color: rgb(62, 202, 223);
+}
